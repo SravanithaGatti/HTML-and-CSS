@@ -6,6 +6,11 @@ body{
 header{
   background-image:url("images/flywheel.jpg");
 }
+
+h1{
+color:#fff;
+}
+
 h1,h2{
   font-variant:small-caps;
   color:#dce4f5;
